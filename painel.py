@@ -38,18 +38,20 @@ api={
 http://cnes.datasus.gov.br/pages/profissionais/consulta.jsp
 '''
 
-logo='''ZACK KONG PAINEL - ZKP
-▒▒▒▄██████████████▄▒▒▒
-▒▒██████████████████▒▒
-▒▐███▀▀▀▀▀██▀▀▀▀▀███▌▒
-▒███▒▒▌■▐▒▒▒▒▌■▐▒▒███▒
-▒▐██▄▒▀▀▀▒▒▒▒▀▀▀▒▄██▌▒
-▒▒▀████▒▄▄▒▒▄▄▒████▀▒▒
-▒▒▐███▒▒▒▀▒▒▀▒▒▒███▌▒▒
-▒▒███▒▒▒▒▒▒▒▒▒▒▒▒███▒▒
-▒▒▒██▒▒▀▀▀▀▀▀▀▀▒▒██▒▒▒
-▒▒▒▐██▄▒▒▒▒▒▒▒▒▄██▌▒▒▒
-▒▒▒▒▀████████████▀▒▒▒▒ \n'''
+logo='''TOCA DO RATO PAINEL PROFISSIONAL - ZKP
+░░░░░████▀▀▀███▄░░░░░░
+░░░▄▄█▒▒▒▒▒▒▒▒▀█▌░░░░░
+░░▐██▒▄■▀▒▒▒▀■▄██░░░░░
+░░▐██▒▒▄▄▌▒▐▄▄▒▐█▌░░░░
+░░░██▒▒▒▒▒▒▒▒▒▒▒█▌░░░░
+░░░██▒▒▒▒▒▀▀▒▒▒▒█▌░░░░
+░░░░█▒▒▒▒▒▒▒▒▒▒▒▓░░░░░
+░░░░▓▒▒▒▒▄██▄▒▒▒▓░░░░░
+░░░░▓▒▒▒▒████▒▒▒▓░░░░░
+░░░░░▓▒▒▒▒▒▒▒▒▒▓░░░░░░
+░░░░░░▓▐█▌▒▒▐█▌░░░░░░░
+░░░░░░░░▀████▀░░░░░░░░
+TOCA DO RATO\n'''
 
 
 ########FUNÇÕES########
@@ -135,8 +137,8 @@ def cnpj() -> str:
 grupo_dict={
 'Grupo de Consultas - Telegram':'https://t.me/luarsearch',
 'Grupo de Consultas - WhatsApp':'INDISPONIVEL',
-'Instagram' : '@notfound',
-'Youtube': 'INDISPONIVEL'}
+'Instagram' : '@zackkj_rkk__',
+'Discord': 'https://discord.gg/n5yCwWY4'}
 
 def grupo() -> str:
 	msg=''
